@@ -1,0 +1,19 @@
+Instruction:
+
+1. Download or clone the entire file.
+2. Copy the library files to "C:\Users\Documents\Arduino\libraies".
+3. Install "Arduino IDE" to run and upload the code on device.
+4. Open the Arduino IDE and connect the device to upload the code.
+5. Before uploading the code change the wifi name and password.
+6. And also change the API key what you get from the ThingSpeak website.
+7. In Arduino IDE click on the upload button to upload the code.
+
+
+Components Required:
+1. Arduino UNO Board.
+2. ESP8266(wifi module).
+3. Air Sensor(MQ135 Sensor).
+4. 16x2 LCD Display with I2C chip.
+5. Buzzer.
+6. LEDs x 3.
+7. Jumper Wires.
